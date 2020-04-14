@@ -1,7 +1,9 @@
 # ECCO logos
 The ECCO logo in different color and format variations.
 
-![ECCO logo variation proofs](ecco_logo_variations_white_background_proofs.png width="40%")
+## Preview
+<img src="ecco_logo_variations_white_background_proofs.png" width="50%" height="50%" title="ECCO Logo Preview">
+<img src="ecco_logo_variations_black_background_proofs.png" width="50%" height="50%" title="ECCO Logo Preview">
 
 ## Directory contents
  
