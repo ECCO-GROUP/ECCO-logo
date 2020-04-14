@@ -1,12 +1,12 @@
 # ECCO logos
-The ECCO logo in different color and format variations.  Updated by Ian Fenty
+The ECCO logo in different color and format variations.
 
 
 ## Directory contents
  
 ### ecco logo variations 2020-04-13.pptx
 
-	ECCO logo variations, PowerPoint 
+	ECCO logo variations, PowerPoint format
 
 ### ecco logo variations 2020-04-13.pdf
 	ECCO logo variations, pdf format
@@ -17,10 +17,10 @@ The ECCO logo in different color and format variations.  Updated by Ian Fenty
 	* Can be opened/edited with InkScape and Adobe Illustrator
 
 ### /logos black background
-	ECCO logo variations for black backgrounds, pdf format
+	individual ECCO logo variations for black backgrounds, pdf format
 
 ### /logos white background
- 	ECCO logo variations for white backgrounds, pdf format
+ 	individual ECCO logo variations for white backgrounds, pdf format
 
 ### /Python code: 
 	Code to generate the background SSH + sea-ice.  
