@@ -1,6 +1,7 @@
 # ECCO logos
 The ECCO logo in different color and format variations.
 
+![ECCO logo variation proofs](ecco_logo_variations_white_background_proofs.png width="40%")
 
 ## Directory contents
  
