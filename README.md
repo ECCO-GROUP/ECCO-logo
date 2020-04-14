@@ -4,14 +4,14 @@ The ECCO logo in different color and format variations.  Updated by Ian Fenty
 
 ## Directory contents
  
-### ecco logo variations 2020-04-10.pptx
+### ecco logo variations 2020-04-13.pptx
 
 	ECCO logo variations, PowerPoint 
 
-### ecco logo variations 2020-04-10.pdf
+### ecco logo variations 2020-04-13.pdf
 	ECCO logo variations, pdf format
 
-### ecco logo master 2020-04-10.svg
+### ecco logo master 2020-04-13.svg
 	Scalable Vector Graphics file containing layers with different elements of the ECCO logo (background images,
 	text, center logo, etc.)
 	* Can be opened/edited with InkScape and Adobe Illustrator
